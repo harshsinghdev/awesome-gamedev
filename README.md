@@ -251,6 +251,7 @@ Unless stated otherwise, these engines are implemented in ECMAScript.
 
 * [Akihabara][258] - Designed for 8-bit and 16-bit games. [Expat][11].
 * [Babylon.js][260] - [Apache2.0][20].
+* [Bottlecap.js] - 2d Hypercasual Game Engine Javascript
 * [Cocos2d-html5][264] - [Expat][11].
 * [Coffee2D][205] - Implemented in CoffeeScript. [Expat][11].
 * [Crafty.js][68] - [Expat][11].
@@ -1214,3 +1215,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [427]: https://github.com/abagames
 [428]: http://noiz2sa.sourceforge.net/
 [429]: https://wiki.haskell.org/Applications_and_libraries/Games
+[430]: https://github.com/harshsinghdev/bottlecap
